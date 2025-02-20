@@ -41,7 +41,8 @@ You need to install the following libraries in **Arduino IDE**:
 
 ## 📷 Circuit Diagram
 
-![Circuit Diagram]\(assets/circuit.png)
+![Circuit Diagram](assets/circuit.png)
+
 
 
 
